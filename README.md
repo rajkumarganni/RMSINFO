@@ -1,0 +1,2 @@
+# RMSINFO
+Resource management project
